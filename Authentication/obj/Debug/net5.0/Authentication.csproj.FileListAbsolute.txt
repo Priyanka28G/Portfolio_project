@@ -1,0 +1,305 @@
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Authentication.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.Development.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.StaticWebAssets.xml
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.exe
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.deps.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Humanizer.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.StaticWebAssets.xml
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.exe
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.deps.json
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\refint\Authentication.dll
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.pdb
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
+C:\Users\HP\Desktop\Portfolio management\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\appsettings.json
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.exe
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.deps.json
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.json
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.runtimeconfig.dev.json
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Authentication.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.Manifest.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\staticwebassets\Authentication.StaticWebAssets.xml
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.pdb
+C:\Users\Priyanka G\Downloads\FINAL PROJECT\FINAL PROJECT\BACK END\Authentication\obj\Debug\net5.0\Authentication.genruntimeconfig.cache
