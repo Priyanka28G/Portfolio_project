@@ -1,0 +1,85 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+					<span class="login100-form-title">
+						Sell your Assets
+						<p style="color: red;">*All fields are mandatory</p>
+					</span>
+					<div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="sellasset.PortfolioId"
+                        maxlength="6"
+						placeholder="Enter Portfolio ID *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="sellasset.stockList[0].stockName"
+						placeholder="Enter Stock Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="sellasset.stockList[0].stockCount"
+						placeholder="Enter Stock Unit *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="sellasset.mutualFundList[0].mutualFundName"
+						placeholder="Enter Mutual Fund Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="sellasset.mutualFundList[0].mutualFundUnits"
+						placeholder="Enter Mutual Fund Unit *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div  class="wrap-input100">
+						<input type="text" class="input100" 
+						[(ngModel)]="sellasset.assetTypeToBeSold"
+						placeholder="What to sell (Stock or MF) *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="sellasset.assetNameToBeSold"
+						placeholder="Which Asset to sell *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button    
+                            (click)="assetnetworth()"
+                             class="login100-form-btn">
+							Sell
+						</button>
+					</div>
+
+					<h6>
+						Remaining Portfolio Networth :{{assetInfo.networth}}
+					</h6> 
+			</div>
+		</div>
+	</div>

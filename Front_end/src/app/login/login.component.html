@@ -1,0 +1,80 @@
+<!--
+<div class="col-md-4">
+
+  <h1 class = "login" >Login Page</h1>
+
+  <label  class="form-label">Portfolio ID</label>
+  
+  <input type="text" [(ngModel)]="user.PortfolioID" class="form-control">
+  <br>
+  <label class="form-label">Password</label>
+  <input type="password" [(ngModel)]="user.Password" class="form-control">
+  <br>
+  <button (click)="userLogin()" class="btn btn-success">Login</button>
+</div>
+-->	
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="/assets/images/portfolio.png" alt="IMG">
+
+				</div>
+
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">
+						Portfolio Login
+					<!--	<input type=”text” [(ngModel)]=”currentMsgToSibling”>	
+						<app-child1 (msgToSibling)=”fwdMsgToSib2($event)”> </app-child1>	-->
+					</span>
+
+					<div class="wrap-input100 validate-input" data-validate = "Valid Portfolio ID is required">
+						<input class="input100" type="text" [(ngModel)]="user.PortfolioID" 
+						maxlength="6" name="PortfolioID" placeholder="Portfolio ID">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate = "Password is required">
+						<input class="input100" [(ngModel)]="user.Password" 
+						maxlength="20"
+						type="password" name="pass" placeholder="Password">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					
+					<div class="container-login100-form-btn">
+						<button (click)="userLogin()" class="login100-form-btn">
+							Login
+						</button>
+					</div>
+
+				</form>
+				<div>				
+					{{outputMessage}}
+				</div>
+			</div>
+		</div>
+	</div>

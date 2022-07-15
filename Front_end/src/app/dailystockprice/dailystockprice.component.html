@@ -1,0 +1,64 @@
+<!--<div class="col-md-4">
+    <br>
+    <label class="sname" class="form-label">Enter the Stock Name</label>
+    <input type="text" [(ngModel)]="dailystockprice.StockName" class="form-control">
+    <br>
+    <button (click)="stockData()" class="btn btn-success">Submit</button>
+    
+    <p >
+        Stock Name: {{stockInfo.stockName}}
+        <br>
+        Stock ID: {{stockInfo.stockId}}
+        <br>
+        Stock Value: {{stockInfo.stockValue}}
+    </p> 
+
+  </div>
+-->
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+					<span class="login100-form-title">
+						Today's Stock data
+						<p style="color: red;">*Stock Name is Mandatory</p>
+					</span>
+					<div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="dailystockprice.StockName"
+						placeholder="Enter Stock Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button (click)="stockData()"   
+                        class="login100-form-btn">
+						Search
+						</button>
+
+					</div>
+					<h6>Today's stock details of {{stockInfo.stockName}}
+						<br>
+					<p><br>
+						Stock ID: {{stockInfo.stockId}}
+						<br>
+						Stock Value: {{stockInfo.stockValue}}
+					</p></h6> 
+					
+			</div>
+		</div>
+	</div>

@@ -1,0 +1,51 @@
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="/assets/images/mainpage.jpg" alt="IMG">
+
+				</div>
+
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">
+						Select any operation to perform!
+					</span>
+
+					<div class="container-login100-form-btn">
+						<button 
+                        routerLink="/portfolio" 
+                        routerLinkActive="active" 
+                        (click)="getNetworth()"
+                        class="login100-form-btn">
+							Calculate Networth
+						</button>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button
+                        routerLink="/sellasset" 
+                        routerLinkActive="active" 
+                        (click)="getsellasset()"
+                        class="login100-form-btn">
+							Sell your assets
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>

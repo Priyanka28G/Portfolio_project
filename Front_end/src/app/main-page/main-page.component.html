@@ -1,0 +1,92 @@
+<!--<div class="abc">
+<nav href="#" class="header">
+<button type="button" 
+    style="margin:15px"
+    routerLink="/todaystockprice" 
+    routerLinkActive="active" 
+    (click)="getStock()"
+    class="button"
+    class="btn btn-danger">
+    Daily Stock Price
+</button>
+<button type="button" 
+    style="margin:15px"
+    routerLink="/mutualfundnav" 
+    routerLinkActive="active" 
+    (click)="getMutual()"
+        class="button"
+    class="btn btn-danger" >
+    Mutual Funds NAV
+</button>
+<button type="button" 
+    style="margin:15px"
+    routerLink="/portfolio" 
+    routerLinkActive="active" 
+    (click)="getPortfolio()"
+    class="button"
+    class="btn btn-danger">
+    Portfolio Details
+</button>
+</nav>
+</div>
+-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				
+                    
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">
+                    <!--   <p>{{ currentMsgFromChild1ToChild2 }}</p>   -->
+                    
+						Select any action to perform
+					</span>
+
+					<div class="container-login100-form-btn">
+						<button 
+                        routerLink="/todaystockprice" 
+                        routerLinkActive="active" 
+                        (click)="getStock()" 
+                        class="login100-form-btn">
+							Daily Stock Price
+						</button>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button
+                        routerLink="/mutualfundnav" 
+                        routerLinkActive="active" 
+                        (click)="getMutual()"  
+                        class="login100-form-btn">
+							Mutual Funds NAV
+						</button>
+					</div>
+					
+					<div class="container-login100-form-btn">
+						<button    
+                        routerLink="/portfolio" 
+                        routerLinkActive="active" 
+                        (click)="getPortfolio()"  
+                        class="login100-form-btn">
+							Portfolio Details
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>

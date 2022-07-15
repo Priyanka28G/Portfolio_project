@@ -1,0 +1,67 @@
+<!--
+  <div class="col-md-4">
+    <br>
+    <label class="mfname" class="form-label">Enter the Mutual Fund Name</label>
+    <input type="text" #box [(ngModel)]="mfNAV.mutualfundName" class="form-control">
+    <br>
+    <button (click)="mfData()" class="btn btn-success">Submit</button>
+  </div>
+
+  <p >
+    Mutual Fund Name: {{mfInfo.mutualFundName}}
+    <br>
+    Mutual Fund ID: {{mfInfo.mutualFundId}}
+    <br>
+    Mutual Fund NAV Value: {{mfInfo.mutualFundValue}}
+</p>
+-->
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+					<span class="login100-form-title">
+						Today's Mutual Fund NAV data
+						<p style="color: red;">*MutualFund Name is Mandatory</p>
+					</span>
+					<div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="mfNAV.mutualfundName"
+						placeholder="Enter Mutual Fund Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button    
+            (click)="mfData()"         
+             class="login100-form-btn">
+							Search
+						</button>
+					</div>
+
+					<h6>Today's stock details of {{mfInfo.mutualFundName}}
+						<br>
+					<p>
+            <br>
+            Mutual Fund ID: {{mfInfo.mutualFundId}}
+            <br>
+            Mutual Fund NAV Value: {{mfInfo.mutualFundValue}}
+					</p>
+        </h6> 
+			</div>
+		</div>
+	</div>

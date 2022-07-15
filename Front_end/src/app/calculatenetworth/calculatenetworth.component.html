@@ -1,0 +1,97 @@
+<!--<div class="col-md-4">
+    <br>
+    <br>
+    <label class="pfid" class="form-label">Portfolio ID</label>
+    <input type="number" [(ngModel)]="calculatenetworth.PortfolioId" class="form-control">
+    <br>
+    <label class="pfid" class="form-label">Stock Name</label>
+    <input type="text" [(ngModel)]="calculatenetworth.stockList[0].stockName" class="form-control">
+    <br>
+    <br>
+    <label class="pfid" class="form-label">Stock Unit</label>
+    <input type="number" [(ngModel)]="calculatenetworth.stockList[0].stockCount" class="form-control">
+    <br>
+
+    <label class="pfid" class="form-label">MF Name</label>
+    <input type="text" [(ngModel)]="calculatenetworth.mutualFundList[0].mutualFundName" class="form-control">
+    <br>
+    <br>
+    <label class="pfid" class="form-label">MF Unit</label>
+    <input type="number" [(ngModel)]="calculatenetworth.mutualFundList[0].mutualFundUnits" class="form-control">
+    <br>
+
+    <button (click)="networth()" class="btn btn-success">Submit</button>
+  </div>
+  <div>
+      Net Worth is :{{portfolioInfo.networth}} 
+  </div>-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/bootstrap/css/bootstrap.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/animate/animate.css'>
+<!--===============================================================================================-->	
+<link rel="stylesheet" type="text/css" href='/assets/vendor/css-hamburgers/hamburgers.min.css'>
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href='/assets/vendor/select2/select2.min.css'>
+<!--===============================================================================================-->
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+					<span class="login100-form-title">
+						Calculate your Net Worth
+						<p style="color: red;">*All fields are mandatory</p>
+					</span>
+					<div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="calculatenetworth.PortfolioId"
+                        maxlength="6"
+						placeholder="Enter Portfolio ID *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="calculatenetworth.stockList[0].stockName"
+						placeholder="Enter Stock Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="calculatenetworth.stockList[0].stockCount"
+						placeholder="Enter Stock Unit *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="text"  class="input100" 
+						[(ngModel)]="calculatenetworth.mutualFundList[0].mutualFundName"
+						placeholder="Enter Mutual Fund Name *">
+						<span class="focus-input100"></span>
+					</div>
+
+                    <div  class="wrap-input100">
+						<input type="number"  class="input100" 
+						[(ngModel)]="calculatenetworth.mutualFundList[0].mutualFundUnits"
+						placeholder="Enter Mutual Fund Unit *">
+						<span class="focus-input100"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button    
+                            (click)="networth()"
+                             class="login100-form-btn">
+							Calculate
+						</button>
+					</div>
+
+					<h6>Net Worth is :{{portfolioInfo.networth}} </h6> 
+			</div>
+		</div>
+	</div>
